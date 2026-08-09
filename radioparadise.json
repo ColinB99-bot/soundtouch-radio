@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "hasPlaylist": true,
+    "isRealtime": true,
+    "streamUrl": "https://colinb99-bot.github.io/soundtouch-radio/radioparadise.m3u"
+  },
+  "imageUrl": "",
+  "name": "Radio Paradise",
+  "streamType": "liveRadio"
+}
